@@ -10,7 +10,6 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 ## CURRÍCULO
 - Endereço: Rio de Janeiro, RJ
 - E-mail: paulopereira.tec@outlook.com
-- Telefone: (21) 9737-73451
 
 ### IDIOMAS
 - Inglês - Leitura
