@@ -21,6 +21,9 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Pós-graduação: Governança em Tecnologia da Informação - FACULESTE/MG
 
 ### CURSOS EXTRACURRICULARES
+- Microsoft Azure Data Fundamentals (DP-900) - Ka Solution
+- Microsoft Azure Fundamentals (AZ-900) - Ka Solution
+- Gestão de Projetos - Faculdade Anhanguera
 - Arquiteto de Software (Formação) - Desenvolvedor.IO
 - Preparatório para certificação DPO/LGPD - TI Exames/Exin
 - Gestão de Projetos - UNINTER
