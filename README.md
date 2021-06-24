@@ -51,3 +51,6 @@ Atuei no desenvolvimento de diversos sites, sistemas e ferramentas para este pro
 
 **Desenvolvedor Web - 4 informática - Santana de Parnaíba, SP (2002/2004):**
 Atuei no desenvolvimento de aplicações voltada para o segmento de telemarketing e automatização de ligações. Tecnologias: PHP; HTML; CSS; Javascript; MySQL.
+
+**Desenvolvedor Web - Análise Contabilidade Empresarial - Santana de Parnaíba, SP (2000/2002):**
+Atuei no desenvolvimento de aplicações e site da empresa. Tecnologias: C#; HTML; CSS; Javascript; MySQL.
