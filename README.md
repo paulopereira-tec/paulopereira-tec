@@ -42,3 +42,12 @@ Atuei no desenvolvimento de software para gestão de corretagem de seguros. Tecn
 
 **Analista de sistemas e Gestor de Projetos - Champion/Petrobrás - Belford Roxo, RJ (2014/2017):**
 Atuei no desenvolvimento de sistema para gestão de insumos de estoque da companhia na cidade de Belford Roxo. Tecnologias: PHP; HTML5; CSS; Javascript; C#; MySQL.
+
+**Analista de sistemas e Gestor de Projetos - Assembléia Legislativa do Estado do Rio de Janeiro - Rio de Janeiro, RJ (2005/2016):**
+Atuei no desenvolvimento de sistema para gestão de gabinetes parlamentares. Tecnologias: PHP; HTML; CSS; Javascript; MySQL.
+
+**Desenvolvedor Web - Osasco Telecom - Osasco, SP (2004/2005):**
+Atuei no desenvolvimento de diversos sites, sistemas e ferramentas para este provedor de serviços em Osasco, SP. Tecnologias: PHP; HTML; CSS; Javascript; MySQL.
+
+**Desenvolvedor Web - 4 informática - Santana de Parnaíba, SP (2002/2004):**
+Atuei no desenvolvimento de aplicações voltada para o segmento de telemarketing e automatização de ligações. Tecnologias: PHP; HTML; CSS; Javascript; MySQL.
