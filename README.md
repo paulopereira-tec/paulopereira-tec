@@ -25,10 +25,11 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Gestão de Projetos - Faculdade Anhanguera
 - Arquiteto de Software (Formação) - Desenvolvedor.IO
 - Preparatório para certificação DPO/LGPD - TI Exames/Exin
-- Gestão de Projetos - UNINTER
+- Gestão de Projetos - Centro Universitário UNINTER
 - ASP.NET - Desenvolvedor.IO
-- Avaliação de Usabilidade - UFRGS
+- Avaliação de Usabilidade - Universidade Federal do Rio Grande do Sul - UFRGS
 - Microsoft Blazor - Macoratti
+- Direito Digital - Faculdade Anhanguera
 
 ### FORMAÇÃO PROFISSIONAL
 **Lider técnico e Analista de sistemas sênior - Rufus Tech - Buenos Aires - Argentina (atual):**
