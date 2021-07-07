@@ -1,9 +1,9 @@
 # Olá! seja bem-vindo(a).
 Olá! Me chamo Paulo. Sou nascido e criado em Sampa. Mas fui adotado pela cidade maravilhosa (Rio). Sou arquiteto de software e já trabalho com desenvolvimento há uns 20 ou 25 anos. (Já perdi as contas) Trabalho com PHP, C#, Back e front-end. Tenho verdadeira paixão (é TOC mesmo) por código bem escrito e bem feito. Amo banco de dados. Especialmente MySQL e SQL Server.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera de Taubaté, SP e pós-graduado em Governança em Tecnologia da Informação pela Faculdade do Leste Mineiro.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera de Taubaté, SP, pós-graduado em Governança em Tecnologia da Informação pela Faculdade do Leste Mineiro e pós-graduando em Administração de Banco de Dados.
 
-Atualmente trabalho com um pessoal muito massa na Argentina. Sou líder técnico nessa equipe. Lá trabalhamos para grandes players do mercado de saúde. Além disso, já atuei em diversos segmentos de mercado, entre eles empresas públicas e privadas.
+Atualmente trabalho com um pessoal muito massa na Argentina. Sou líder técnico nessa equipe. Lá trabalhamos para grandes _players_ do mercado de saúde. Além disso, já atuei em diversos segmentos de mercado, entre eles empresas públicas e privadas.
 
 Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 
