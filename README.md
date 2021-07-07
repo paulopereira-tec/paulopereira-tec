@@ -18,6 +18,7 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 ### FORMAÇÃO ACADÊMICA
 - Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera Uniderp/SP
 - Pós-graduação: Governança em Tecnologia da Informação - FACULESTE/MG
+- Pós-graduação: Administração de Banco de Dados (em curso) - FAMEESP/SP
 
 ### CURSOS EXTRACURRICULARES
 - Microsoft Azure Data Fundamentals (DP-900) - Ka Solution
