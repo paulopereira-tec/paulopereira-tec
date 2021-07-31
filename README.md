@@ -16,9 +16,9 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Espanhol - Leitura e conversação (básico)
 
 ### FORMAÇÃO ACADÊMICA
-- Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera Uniderp/SP
-- Pós-graduação: Governança em Tecnologia da Informação - FACULESTE/MG
 - Pós-graduação: Administração de Banco de Dados (em curso) - FAMEESP/SP
+- Pós-graduação: Governança em Tecnologia da Informação - FACULESTE/MG
+- Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera Uniderp/SP
 
 ### CURSOS EXTRACURRICULARES
 - AWS Discovery Day - Ka Solution
