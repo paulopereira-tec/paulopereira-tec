@@ -21,6 +21,8 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Pós-graduação: Administração de Banco de Dados (em curso) - FAMEESP/SP
 
 ### CURSOS EXTRACURRICULARES
+- AWS Discovery Day - Ka Solution
+- DPO (Data Protection Officer) e LGPD (Lei Geral de Proteção de Dados) na prática - Ka Solution
 - Microsoft Azure Data Fundamentals (DP-900) - Ka Solution
 - Microsoft Azure Fundamentals (AZ-900) - Ka Solution
 - Gestão de Projetos - Faculdade Anhanguera
