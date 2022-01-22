@@ -1,9 +1,9 @@
 # Olá! seja bem-vindo(a).
 Olá! Me chamo Paulo. Sou nascido e criado em Sampa. Mas fui adotado pela cidade maravilhosa (Rio). Sou arquiteto de software e já trabalho com desenvolvimento há uns 20 ou 25 anos. (Já perdi as contas) Trabalho com PHP, C#, Back e front-end. Tenho verdadeira paixão (é TOC mesmo) por código bem escrito e bem feito. Amo banco de dados. Especialmente MySQL e SQL Server.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera de Taubaté, SP, pós-graduado em Governança em Tecnologia da Informação pela Faculdade do Leste Mineiro e pós-graduando em Administração de Banco de Dados na Faculdade Metropolitana de São Paulo (FAMESP).
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera de Taubaté, SP, pós-graduado em Governança em Tecnologia da Informação pela Faculdade do Leste Mineiro e pós-graduado em Administração de Banco de Dados na Faculdade Metropolitana de São Paulo (FAMESP). Em janeiro dei início a terceira pós-graduação. Dessa vez em Gestão Empresarial. Depois dessa, pretendo concluir meus objetivos de estudo ao fazer um MBA em Engenharia de Software, também pela FAMESP por conta da qualidade do ensino.
 
-Atualmente trabalho com um pessoal muito massa na Argentina. Sou líder técnico nessa equipe. Lá trabalhamos para grandes _players_ do mercado de saúde. Além disso, já atuei em diversos segmentos de mercado, entre eles empresas públicas e privadas.
+Atualmente trabalho com um pessoal muito massa em Maringá, PR. Também presto consultoria de desenvolvimento na anterior empresa que trabalhei na Argentina. Em ambas as empresas, trabalhamos para grandes _players_ do mercado de saúde. Além disso, já atuei em diversos segmentos de mercado, entre eles empresas públicas e privadas.
 
 Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 
@@ -16,6 +16,7 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Espanhol - Leitura e conversação (básico)
 
 ### FORMAÇÃO ACADÊMICA
+- Pós-Graduação: Gestão Empresarial - CENES/PR
 - Pós-graduação: Administração de Banco de Dados (em curso) - FAMEESP/SP
 - Pós-graduação: Governança em Tecnologia da Informação - FACULESTE/MG
 - Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera Uniderp/SP
@@ -35,7 +36,10 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Direito Digital - Faculdade Anhanguera
 
 ### FORMAÇÃO PROFISSIONAL
-**Lider técnico e Analista de sistemas sênior - Rufus Tech - Buenos Aires - Argentina (atual):**
+**Desenvolvedor C# FullStack Sênior**
+Atuo com o desenvolvimento de software voltado para  mercado de planos de saúde com tecnologias C#, VueJS, PostgreSQL
+
+**Consultor e Analista de sistemas sênior - Rufus Tech - Buenos Aires - Argentina (atual):**
 Atuo na coordenação e desenvolvimento de diversas aplicações relacionadas a seguro e planos de saúde com tecnologias C#; VueJS; Angular; SQL Server e Node JS.
 
 **Analista de sistemas sênior - OnSet/CompNet - São José dos Campos, SP (2019/2020):**
