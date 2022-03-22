@@ -7,6 +7,11 @@ Atualmente trabalho com um pessoal muito massa em Maringá, PR. Também presto c
 
 Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 
+## CERTIFICAÇÕES
+<a href="https://www.credly.com/badges/3a39b5e3-9ef1-45b5-868d-520d602123dd/public_url" target="_blank">
+<img src="https://user-images.githubusercontent.com/51684821/159574487-b36919ab-465f-4a8a-b88f-f9efe99363db.png" width="150"/>
+</a>
+  
 ## CURRÍCULO
 - Endereço: Rio de Janeiro, RJ
 - E-mail: paulopereira.tec@outlook.com
