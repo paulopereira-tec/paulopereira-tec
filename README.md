@@ -21,7 +21,6 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Espanhol - Leitura e conversação (básico)
 
 ### FORMAÇÃO ACADÊMICA
-- Pós-Graduação: Gestão Empresarial - CENES/PR
 - Pós-graduação: Administração de Banco de Dados (em curso) - FAMEESP/SP
 - Pós-graduação: Governança em Tecnologia da Informação - FACULESTE/MG
 - Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera Uniderp/SP
@@ -41,7 +40,7 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Direito Digital - Faculdade Anhanguera
 
 ### FORMAÇÃO PROFISSIONAL
-**Desenvolvedor C# FullStack Sênior**
+**Desenvolvedor C# FullStack Sênior - Benner Tecnologia - Maringá, PR**
 Atuo com o desenvolvimento de software voltado para  mercado de planos de saúde com tecnologias C#, VueJS, PostgreSQL
 
 **Consultor e Analista de sistemas sênior - Rufus Tech - Buenos Aires - Argentina (atual):**
