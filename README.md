@@ -26,7 +26,8 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera Uniderp/SP
 
 ### CURSOS EXTRACURRICULARES
-- Testes em .NET - Alura
+- Testes em .NET - Testes de integração - Alura
+- Testes em .NET - Testes de unidade - Alura
 - AWS Discovery Day - Ka Solution
 - DPO (Data Protection Officer) e LGPD (Lei Geral de Proteção de Dados) na prática - Ka Solution
 - Microsoft Azure Data Fundamentals (DP-900) - Ka Solution
