@@ -42,7 +42,13 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Direito Digital - Faculdade Anhanguera
 
 ### FORMAÇÃO PROFISSIONAL
-**Desenvolvedor C# FullStack Sênior - Benner Tecnologia - Maringá, PR (atual)**
+**Desenvolvedor C# FullStack Sênior - AMcom Tecnologia - Blumenau, SC (atual)**
+Atuo com o desenvolvimento de software voltado para o setor energético estando alocado no ONS (Operador Nacional do Sistema Elétrico).
+
+**Consultor e Analista de sistemas sênior - SIC - Belo Horizonte, MG:**
+Atuo na coordenação e desenvolvimento de diversas aplicações relacionadas ao segmento educacional e desenvolvimento de soluções LMS com tecnologias C#; Angular; SQL Server e Node JS.
+
+**Desenvolvedor C# FullStack Sênior - Benner Tecnologia - Maringá, PR**
 Atuo com o desenvolvimento de software voltado para  mercado de planos de saúde com tecnologias C#, VueJS, PostgreSQL
 
 **Consultor e Analista de sistemas sênior - Rufus Tech - Buenos Aires - Argentina:**
