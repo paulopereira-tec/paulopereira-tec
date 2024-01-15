@@ -3,7 +3,7 @@ Olá! Me chamo Paulo. Sou nascido e criado em Sampa. Mas fui adotado pela cidade
 
 Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera de Taubaté, SP, pós-graduado em Governança em Tecnologia da Informação pela Faculdade do Leste Mineiro e pós-graduado em Administração de Banco de Dados na Faculdade Metropolitana de São Paulo (FAMESP). Em janeiro dei início a terceira pós-graduação. Dessa vez em Gestão Empresarial. Depois dessa, pretendo concluir meus objetivos de estudo ao fazer um MBA em Engenharia de Software, também pela FAMESP por conta da qualidade do ensino.
 
-Atualmente trabalho com um pessoal muito massa em Blumenau, SC. Também presto consultoria de desenvolvimento de software. Em ambas as empresas, trabalhamos para grandes _players_ do mercado de saúde. Além disso, já atuei em diversos segmentos de mercado, entre eles empresas públicas e privadas.
+Atualmente trabalho com um pessoal muito massa em Blumenau, SC para grandes _players_ do mercado de energia. Além disso, já atuei em diversos segmentos de mercado, entre eles empresas públicas e privadas.
 
 Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 
