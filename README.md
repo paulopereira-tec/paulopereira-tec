@@ -21,9 +21,11 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Espanhol - Leitura e conversação (básico)
 
 ### FORMAÇÃO ACADÊMICA
-- Pós-graduação: Administração de Banco de Dados - FAMEESP/SP
+- Pós-graduação: Biotecnologia - FACULESTE/MG (em curso)
+- Pós-graduação: Engenharia de Software (MBA) - FAMESP/SP
+- Pós-graduação: Administração de Banco de Dados (MBA) - FAMEESP/SP
 - Pós-graduação: Governança em Tecnologia da Informação - FACULESTE/MG
-- Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera Uniderp/SP
+- Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera/SP
 
 ### CURSOS EXTRACURRICULARES
 - Testes em .NET - Testes de integração - Alura
@@ -46,7 +48,7 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 Atuo com o desenvolvimento de software voltado para o setor energético estando alocado no ONS (Operador Nacional do Sistema Elétrico).
 
 **Consultor e Analista de sistemas sênior - SIC - Belo Horizonte, MG:**
-Atuo na coordenação e desenvolvimento de diversas aplicações relacionadas ao segmento educacional e desenvolvimento de soluções LMS com tecnologias C#; Angular; SQL Server e Node JS.
+Atuei na coordenação e desenvolvimento de diversas aplicações relacionadas ao segmento educacional e desenvolvimento de soluções LMS com tecnologias C#; Angular; SQL Server e Node JS.
 
 **Desenvolvedor C# FullStack Sênior - Benner Tecnologia - Maringá, PR**
 Atuo com o desenvolvimento de software voltado para  mercado de planos de saúde com tecnologias C#, VueJS, PostgreSQL
