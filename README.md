@@ -1,9 +1,15 @@
 # Olá! seja bem-vindo(a).
-Olá! Me chamo Paulo. Sou nascido e criado em Sampa. Mas fui adotado pela cidade maravilhosa (Rio). Sou arquiteto de software e já trabalho com desenvolvimento há uns 20 ou 25 anos. (Já perdi as contas) Trabalho com PHP, C#, Back e front-end. Tenho verdadeira paixão (é TOC mesmo) por código bem escrito e bem feito. Amo banco de dados. Especialmente MySQL e SQL Server.
+Prazer, me chamo Paulo.
+Trabalho com arquitetura e desenvolvimento de software há uns 25 anos. Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhaguera-Uniderp de Taubaté, SP e algumas especializações e MBAs na área.
+Recentemente aceitei o desafio de entender um intrincado sistema de uma rede de escolas e clínicas odontológicas para que, no futuro, atue na reformulação do mesmo para a More Results (MR para os íntimos) com sede em Duque de Caxias, RJ. A proposta e compreender as regras do negócio existente há quase 20 anos; treinar, montar uma estrutura técnica e construir uma nova aplicação que atenda as necessidades de cerca de mil funcionários, mais de 20 mil registros de alunos e pacientes e quase 200 GB de dados manipulados diariamente. Pois é. Gosto de desafios. ;)
+E por falar em grandes desafios, atualmente estou cursando MBA em Gestão de Projetos pela Faculdade Metropolitana de Franca (FAMEF/SP). O objetivo é me preparar para o que vem pela frente.
+Por falar em gestão, já atuei (quero dizer, ainda atuo) na Argentina em uma fábrica de software onde temos desenvolvedores de diversas locais, multidisciplinares e de diversas culturas. Meu trabalho é coordenar, direcionar e motivar a todos. O mais bacana de tudo é que, desde a entrevista inicial até a efetivação para o trabalho, consegui montar uma equipe com uma sinergia perfeita para o trabalho onde tenho não colaboradores, mas amigos que admiro, respeito e tenho muita estima.
+Minha outra paixão é Banco de Dados tanto que tenho um MBA em Administração de Banco de Dados. Outro MBA que fiz e que tem tudo a ver é Arquitetura de Software, ambos pela FAMESP.
+Sou casado há 18 anos (olha um relacionamento bom e estruturado aí – quem é nerd vai entender a piada). Sou paulista e moro na cidade do Rio de Janeiro. Posso dizer que já tenho meu Green Card carioca.
+Se quiser saber mais sobre meu currículo ou apenas ‘prosear um tantin’ me mande uma mensagem ou ligue para os contatos abaixo.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera de Taubaté, SP, pós-graduado em Governança em Tecnologia da Informação pela Faculdade do Leste Mineiro e pós-graduado em Administração de Banco de Dados na Faculdade Metropolitana de São Paulo (FAMESP). Em janeiro dei início a terceira pós-graduação. Dessa vez em Gestão Empresarial. Depois dessa, pretendo concluir meus objetivos de estudo ao fazer um MBA em Engenharia de Software, também pela FAMESP por conta da qualidade do ensino.
-
-Se quiser saber mais, dá uma conferida no meu currículo abaixo:
+E-mail: paulopereira.tec@outlook.com
+Telefone: (21) 9737-73451
 
 ## CERTIFICAÇÕES
 <a href="https://www.credly.com/badges/3a39b5e3-9ef1-45b5-868d-520d602123dd/public_url" target="_blank">
@@ -11,16 +17,16 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 </a>
   
 ## CURRÍCULO
-- Endereço: Rio de Janeiro, RJ
-- E-mail: paulopereira.tec@outlook.com
-
 ### IDIOMAS
 - Inglês - Leitura
 - Espanhol - Leitura e conversação (básico)
+- Italiano - Leitura e conversação (básico)
 
 ### FORMAÇÃO ACADÊMICA
-- Pós-graduação: Biotecnologia - FACULESTE/MG (em curso)
+- Pós-graduação: Gestão de Projetos (MBA) - FAMEF/SP (em curso)
+- Pós-graduação: Biotecnologia - FACULESTE/MG
 - Pós-graduação: Engenharia de Software (MBA) - FAMESP/SP
+- Pós-graduação: Gestão de Startups (MBA) - FAMESP/SP
 - Pós-graduação: Administração de Banco de Dados (MBA) - FAMEESP/SP
 - Pós-graduação: Governança em Tecnologia da Informação - FACULESTE/MG
 - Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera/SP
@@ -42,7 +48,10 @@ Se quiser saber mais, dá uma conferida no meu currículo abaixo:
 - Direito Digital - Faculdade Anhanguera
 
 ### FORMAÇÃO PROFISSIONAL
-**Desenvolvedor C# FullStack Sênior - AMcom Tecnologia - Blumenau, SC (atual)**
+**Arquiteto de software Sênior - More Results - Duque de Caxias, RJ (atual)**
+Dar manutenção em sistema legado para rede de clínicas odontoógicas e escolas. Arquitetar, documentar e produzir uma nova solução e substituição ao sistema atual.
+
+**Desenvolvedor C# FullStack Sênior - AMcom Tecnologia - Blumenau, SC**
 Atuo com o desenvolvimento de software voltado para o setor energético estando alocado no ONS (Operador Nacional do Sistema Elétrico).
 
 **Consultor e Analista de sistemas sênior - SIC - Belo Horizonte, MG:**
