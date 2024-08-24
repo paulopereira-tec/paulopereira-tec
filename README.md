@@ -1,11 +1,18 @@
 # Olá! seja bem-vindo(a).
 Prazer, me chamo Paulo.
+
 Trabalho com arquitetura e desenvolvimento de software há uns 25 anos. Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhaguera-Uniderp de Taubaté, SP e algumas especializações e MBAs na área.
+
 Recentemente aceitei o desafio de entender um intrincado sistema de uma rede de escolas e clínicas odontológicas para que, no futuro, atue na reformulação do mesmo para a More Results (MR para os íntimos) com sede em Duque de Caxias, RJ. A proposta e compreender as regras do negócio existente há quase 20 anos; treinar, montar uma estrutura técnica e construir uma nova aplicação que atenda as necessidades de cerca de mil funcionários, mais de 20 mil registros de alunos e pacientes e quase 200 GB de dados manipulados diariamente. Pois é. Gosto de desafios. ;)
+
 E por falar em grandes desafios, atualmente estou cursando MBA em Gestão de Projetos pela Faculdade Metropolitana de Franca (FAMEF/SP). O objetivo é me preparar para o que vem pela frente.
+
 Por falar em gestão, já atuei (quero dizer, ainda atuo) na Argentina em uma fábrica de software onde temos desenvolvedores de diversas locais, multidisciplinares e de diversas culturas. Meu trabalho é coordenar, direcionar e motivar a todos. O mais bacana de tudo é que, desde a entrevista inicial até a efetivação para o trabalho, consegui montar uma equipe com uma sinergia perfeita para o trabalho onde tenho não colaboradores, mas amigos que admiro, respeito e tenho muita estima.
+
 Minha outra paixão é Banco de Dados tanto que tenho um MBA em Administração de Banco de Dados. Outro MBA que fiz e que tem tudo a ver é Arquitetura de Software, ambos pela FAMESP.
+
 Sou casado há 18 anos (olha um relacionamento bom e estruturado aí – quem é nerd vai entender a piada). Sou paulista e moro na cidade do Rio de Janeiro. Posso dizer que já tenho meu Green Card carioca.
+
 Se quiser saber mais sobre meu currículo ou apenas ‘prosear um tantin’ me mande uma mensagem ou ligue para os contatos abaixo.
 
 E-mail: paulopereira.tec@outlook.com
