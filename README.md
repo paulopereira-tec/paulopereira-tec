@@ -18,10 +18,9 @@ Se quiser saber mais sobre meu currículo ou apenas ‘prosear um tantin’ me m
 E-mail: paulopereira.tec@outlook.com
 Telefone: (21) 9737-73451
 
-## CERTIFICAÇÕES
-<a href="https://www.credly.com/badges/3a39b5e3-9ef1-45b5-868d-520d602123dd/public_url" target="_blank">
+## AFILIAÇÕES E CERTIFICAÇÕES
 <img src="https://user-images.githubusercontent.com/51684821/159574487-b36919ab-465f-4a8a-b88f-f9efe99363db.png" width="150"/>
-</a>
+<img src="https://apdados.org/static/img/LOGO%20APDADOS.png" width="150"/>
   
 ## CURRÍCULO
 ### IDIOMAS
