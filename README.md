@@ -38,6 +38,7 @@ Telefone: (21) 9737-73451
 - Graduação: Análise e Desenvolvimento de Sistemas - Anhanguera/SP
 
 ### CURSOS EXTRACURRICULARES
+- TDD - Test Driven Development - ITA (Instituto de Tecnologia da Aeronáutica)
 - Testes em .NET - Testes de integração - Alura
 - Testes em .NET - Testes de unidade - Alura
 - AWS Discovery Day - Ka Solution
