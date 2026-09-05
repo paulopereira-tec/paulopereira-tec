@@ -57,7 +57,7 @@ Principais responsabilidades:
 
 ## 🎓 Formação
 
-* MBA em Gestão de Projetos *(em andamento)*.
+* MBA em Gestão de Projetos.
 * Pós-graduação em Engenharia de Software.
 * Pós-graduação em Administração de Banco de Dados.
 * Pós-graduação em Governança em TI.
